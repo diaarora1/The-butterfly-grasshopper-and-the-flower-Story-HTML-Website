@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+}
+h1{
+    color:rgb(255, 107, 181);
+        font-family: "Pacifico", cursive;
+        font-weight: 400;
+        font-style: normal;
+        font-size:50px;
+}
+h2{
+    text-decoration: underline;
+}
+img{
+    border: 10px solid rgb(221, 160, 221);
+
+}
+p{
+    font-family: "Anta", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+}
